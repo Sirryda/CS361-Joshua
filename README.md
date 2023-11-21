@@ -14,7 +14,7 @@ Executing the program:
 Requesting Data:
 1.	User needs to open the 2 python programs named app.py and stock_insight_cli.py in the user’s IDE or programs.
 2.	The onscreen message will show. There are 3 commands that I had added: “watchlist”, “add-to-watchlist” and “remove-from-watchlist”.
-   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/df852a81-8b0c-46ed-acf2-210b35d6ef17)
+   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/df852a81-8b0c-46ed-acf2-210b35d6ef17) 
   	
 •	 Add to Watchlist:
     o	User will type “add-to-watchlist” at the prompt.
