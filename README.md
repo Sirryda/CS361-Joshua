@@ -15,6 +15,7 @@ Requesting Data:
 1.	User needs to open the 2 python programs named app.py and stock_insight_cli.py in the user’s IDE or programs.
 2.	The onscreen message will show. There are 3 commands that I had added: “watchlist”, “add-to-watchlist” and “remove-from-watchlist”.
    ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/df852a81-8b0c-46ed-acf2-210b35d6ef17)
+  	
 •	 Add to Watchlist:
     o	User will type “add-to-watchlist” at the prompt.
     o	The screen will then ask for the stock symbol for a stock to be added.
@@ -25,7 +26,6 @@ Requesting Data:
      ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/a805ed56-b866-4895-a315-023b1ee4190b)
     o	If not successful, a message saying the stock was not added will print.
      ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/d2e4cab7-04cd-4971-8d66-f1c5c34677ff)
-
     o	After either successful or unsuccessful messages, it will ask for a new command.
 
 •	Remove from Watchlist:
