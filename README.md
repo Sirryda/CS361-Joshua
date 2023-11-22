@@ -78,3 +78,7 @@ Executing the program:
 
 - When viewing the watchlist, the user will receive a JSON array that contains the stocks and prices that are saved in the watchlist.txt file.
 - The program will print the stocks from the watchlist.txt, which include the ‘symbol’ (as a string) and ‘price’ (as a number).
+
+
+
+![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/d3d7a563-0601-4d2e-adbe-c06cbe985e47)
