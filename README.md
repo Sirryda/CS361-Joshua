@@ -13,11 +13,6 @@ The Microservice will take the user command from the stock_insight_cli.py to cre
 Executing the program:
 
 <b>Requesting Data:</b>
-1.	User needs to open the 2 python programs named app.py and stock_insight_cli.py in the user’s IDE or programs.
-2.	The onscreen message will show. There are 3 commands that I had added: “watchlist”, “add-to-watchlist” and “remove-from-watchlist”.
-   
-![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/df852a81-8b0c-46ed-acf2-210b35d6ef17) 
-
    
 <b>Add to Watchlist:</b>
 - User will type “add-to-watchlist” at the prompt.
@@ -31,24 +26,10 @@ Executing the program:
   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/a805ed56-b866-4895-a315-023b1ee4190b)
 - If not successful, a message saying the stock was not added will print.
  
-  ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/d2e4cab7-04cd-4971-8d66-f1c5c34677ff)
-- After either successful or unsuccessful messages, it will ask for a new command.
-<br>
-<br>
-<b>Remove from Watchlist:</b>
+![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/1d03f899-62cf-4efb-ac2d-13091615adb1)
 
-- User will type “remove-from-watchlist” at the prompt.
-- The screen will ask for the stock symbol to be removed from watchlist.
-  
-  ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/6d065754-ed15-4f8c-a784-b8a1f29032ad)
-- Once the user types a stock (AAPL for example), the program will send a POST request to ‘/remove_from_watchlist’ with a JSON payload with ‘symbol’ (as a string). This can take a few seconds.
-- A message saying the stock as been removed from watchlist will be shown.
-  
-  ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/37b705b9-5b20-4715-8738-8ad0f74046cf)
-- The program will ask for a new command from the user.
 <br>
 <br>
-  
 
 <b>To View the Watchlist:</b>
 
@@ -70,10 +51,7 @@ Executing the program:
 - Once the stock has been added to the watchlist, the program will print a confirmation message. This will show the user that the stock was added successfully.
 - If the stock was typed incorrectly, it will print the error message.
 
-<b>Remove from Watchlist:</b>
-
-- Once the user types the stock symbol that should be removed, the program will print a confirmation messaging saying it was removed.          This will happen even if the stock symbol typed isn’t in the list since it will no longer be on the watchlist.txt file.
-
+<br>
 <b>Watchlist:</b>
 
 - When viewing the watchlist, the user will receive a JSON array that contains the stocks and prices that are saved in the watchlist.txt file.
