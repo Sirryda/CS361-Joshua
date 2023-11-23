@@ -26,7 +26,7 @@ Executing the program:
   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/a805ed56-b866-4895-a315-023b1ee4190b)
 - If not successful, a message saying the stock was not added will print.
  
-![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/1d03f899-62cf-4efb-ac2d-13091615adb1)
+    ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/1d03f899-62cf-4efb-ac2d-13091615adb1)
 
 <br>
 <br>
@@ -39,7 +39,7 @@ Executing the program:
 - If there are stocks stored in watchlist.txt, it will print the symbol and price for stocks stored.
   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/af6c38d7-e94f-47c2-8856-28eca827cb97)
 - If no stocks are stored in watchlist.txt file, it will return with an empty list.  
-      ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/2fc5f70b-7672-41c7-98af-416c9108f8c2)
+  ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/2fc5f70b-7672-41c7-98af-416c9108f8c2)
 
 <br>
 <br>
@@ -58,5 +58,5 @@ Executing the program:
 - The program will print the stocks from the watchlist.txt, which include the ‘symbol’ (as a string) and ‘price’ (as a number).
 
 
-![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/68fbfee3-2fe9-4498-84a7-b43914607102)
+![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/531605bf-a8c4-45a0-988a-e01de10a04ba)
 
