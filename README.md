@@ -58,5 +58,5 @@ Executing the program:
 - The program will print the stocks from the watchlist.txt, which include the ‘symbol’ (as a string) and ‘price’ (as a number).
 
 
+![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/68fbfee3-2fe9-4498-84a7-b43914607102)
 
-![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/d3d7a563-0601-4d2e-adbe-c06cbe985e47)
