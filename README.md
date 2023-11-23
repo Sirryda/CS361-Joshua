@@ -8,7 +8,7 @@ Add a README to your GitHub (or update it if you already have one) that contains
     C.	UML sequence diagram showing how requesting and receiving data works. Make it detailed enough that your partner (and your grader)             will understand
 
 Microservice:
-The Microservice will take the user command from the stock_insight_cli.py to create, add, delete or view a watchlist. The watchlist information will be saved to microservice.txt file stored in the same folder as the stock_insight_cli.py and the app.py. When adding a stock to watchlist.txt file, the microservice will get the current price from the AlphaVantage API and then add it to the file.
+The Microservice will take the user command from the stock_insight_cli.py to create, add or view a watchlist. The watchlist information will be saved to microservice.txt file should be stored in the same folder as the app.py and the cli.py. When adding a stock to watchlist.txt file, the microservice will get the current price from the AlphaVantage API and then add it to the file.
 
 Executing the program:
 
@@ -39,8 +39,8 @@ Executing the program:
 - If there are stocks stored in watchlist.txt, it will print the symbol and price for stocks stored.
   ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/af6c38d7-e94f-47c2-8856-28eca827cb97)
 - If no stocks are stored in watchlist.txt file, it will return with an empty list.  
-  ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/2fc5f70b-7672-41c7-98af-416c9108f8c2)
-- The program will ask for a new command from the user.
+      ![image](https://github.com/Sirryda/CS361-Joshua/assets/1214872/2fc5f70b-7672-41c7-98af-416c9108f8c2)
+
 <br>
 <br>
 <b>Receiving Data:</b>
